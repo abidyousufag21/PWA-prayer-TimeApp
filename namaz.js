@@ -128,8 +128,8 @@ isha.innerHTML += `
 //     `<p>ll</P>`)
 //   } ,1000);
 
-setInterval(()  =>{ 
-  let para = document.getElementById("para");
-  para.innerHTML =
-  moment().format('iYYYY/iM/iD');
-},1000)  
+// setInterval(()  =>{ 
+//   let para = document.getElementById("para");
+//   para.innerHTML =
+//   moment().format('iYYYY/iM/iD');
+// },1000)  
